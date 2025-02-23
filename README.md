@@ -34,7 +34,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Aplikasi akan berjalan di browser pada `http://localhost:3000/`.
+Aplikasi akan berjalan di browser pada `http://localhost:8501/`.
 
 
 ## Dependencies
