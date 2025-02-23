@@ -13,7 +13,7 @@ Professional CV Builder adalah aplikasi berbasis Streamlit yang memungkinkan pen
 
 ### 1. Clone Repository
 ```sh
-
+https://github.com/fajarjulyana/CV-Resume-Builder.git
 ```
 
 ### 2. Install Dependensi
