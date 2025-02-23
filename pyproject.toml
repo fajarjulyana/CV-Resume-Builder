@@ -1,0 +1,15 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "jinja2>=3.1.5",
+    "openai>=1.64.0",
+    "qrcode[pil]>=8.0",
+    "reportlab>=4.3.1",
+    "requests>=2.32.3",
+    "streamlit>=1.42.2",
+    "trafilatura>=2.0.0",
+    "weasyprint>=64.1",
+]
